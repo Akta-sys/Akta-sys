@@ -2,7 +2,7 @@
 
 **`Cursando Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvador, Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil "[Guilherme Alves](www.linkedin.com/in/guiacb)", onde é possível ver o meu aprendizado em programação e minha evolução na área de tecnologia.
+Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvador, Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil "[Guilherme Alves](https://www.linkedin.com/feed/)", onde é possível ver o meu aprendizado em programação e minha evolução na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guiacb">
