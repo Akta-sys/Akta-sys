@@ -9,21 +9,21 @@ Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvado
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B0-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
     <a href="https://www.linkedin.com/in/guiacb">
         <img 
             alt="LinkedIn Views"
             title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%1Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
         />
     </a>
     <a href="https://www.instagram.com/gui.acb/">
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B1k-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B159-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
@@ -31,7 +31,7 @@ Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvado
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CauaAraujo-EngSoft?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Akta-sysSoft?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"
         />
 </p>
 
