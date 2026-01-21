@@ -73,14 +73,6 @@ Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvado
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=akta-sys&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
     align="left"
     alt="Top Languages"
     height="200"
