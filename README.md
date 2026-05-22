@@ -1,85 +1,50 @@
-## Guilherme Barros
+<h1 align="center">Hey, I'm Guilherme 👋</h1>
 
-**`Cursando Análise e Desenvolvimento de Sistemas`**
-
-Me chamo Guilherme Alves Cordeiro Barros, tenho 19 anos e sou natural de Salvador, Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil "[Guilherme Alves](https://www.linkedin.com/feed/)", onde é possível ver o meu aprendizado em programação e minha evolução na área de tecnologia.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/guiacb">
-        <img 
-            alt="LinkedIn Seguidores"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B0-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-        />
-    </a>
-    <a href="https://www.instagram.com/gui.acb/">
-        <img 
-            alt="Instagram Seguidores"
-            title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B159-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
-        />
-    </a>
+<p align="center">
+  <em>Systems Analysis & Development student · Backend-focused · Building things that matter</em>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### About me
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" 
-/>
-<img 
-    align="left" 
-    alt="VsCode" 
-    title="VsCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+I'm a 19-year-old developer from Brazil, currently studying Systems Analysis and Development at SENAC. I'm focused on backend development and working on real-world projects that solve practical problems. I believe in writing code I actually understand — not just code that works.
 
-<br/>
-<br/>
+Currently deepening my knowledge in **Java** and exploring **JavaScript** on the side.
 
-### 📊 Estatísticas
+---
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Stats
 
 <p>
   <img 
-    align="left"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akta-sys&layout=compact&custom_title=Languages&langs_count=9&theme=react" 
     alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akta-sys&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 </p>
 
+---
 
+### 📬 Get in touch
+
+<p>
+  <a href="https://www.linkedin.com/in/guiacb" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:guilhermealvs44@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-guilhermealvs44@gmail.com-D44638?logo=mail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
 </p>
-
